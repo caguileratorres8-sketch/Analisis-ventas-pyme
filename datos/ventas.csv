@@ -1,1 +1,6 @@
-
+id_factura,fecha,cliente,producto,cantidad,precio_unitario
+1,2026-01-05,Cliente A,Cuaderno,10,3500
+2,2026-01-12,Cliente B,Lapicero,50,1200
+3,2026-02-03,Cliente A,Resma de papel,5,18000
+4,2026-02-15,Cliente C,Cuaderno,20,3500
+5,2026-03-01,Cliente B,Resma de papel,8,18000
